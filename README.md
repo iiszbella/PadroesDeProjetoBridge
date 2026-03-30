@@ -10,3 +10,6 @@ Até 3 anos de empresa → 0%
 De 3 até 7 anos de empresa → 10%
 De 7 até 12 anos de empresa → 20%
 Mais de 12 anos de empresa → 35%
+
+
+Diagrama UML - https://drive.google.com/file/d/1u7O0VqaeSikRR0CP_ejYyVgWF_oe4o3f/view?usp=sharing
