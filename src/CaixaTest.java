@@ -33,4 +33,3 @@ public class CaixaTest {
         assertEquals(2000f * 1.35f, caixa.calcularSalario());
     }
 }
-

@@ -9,4 +9,3 @@ public class Ate7Anos implements TempoServico {
         return 0.20f;
     }
 }
-

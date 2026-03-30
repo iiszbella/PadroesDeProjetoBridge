@@ -9,4 +9,3 @@ public class Vendedor extends Cargo {
         return this.salarioBase * (1 + this.tempoServico.percentualAumento());
     }
 }
-

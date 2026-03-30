@@ -33,4 +33,3 @@ public class VendedorTest {
         assertEquals(2500f * 1.35f, vendedor.calcularSalario());
     }
 }
-
